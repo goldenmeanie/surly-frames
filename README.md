@@ -21,4 +21,4 @@ Now that I have a workflow I’ll probably go ahead and put all the bikes in the
 - Big Dummy
 
 ## Other resources
-There is [a spreadsheet](https://docs.google.com/a/buildium.com/spreadsheet/ccc?key=0AjcKyUe3m-FlcGRiNXJsTDFuczBYTHhNMzFXcHZrQ3c#gid=0) out there where folks are contributing personal metrics and fit info to help you triangulate fit.
+There is [a spreadsheet](https://docs.google.com/a/buildium.com/spreadsheet/ccc?key=0AjcKyUe3m-FlcGRiNXJsTDFuczBYTHhNMzFXcHZrQ3c#gid=0) out there where folks are contributing personal metrics and fit info for the Long Haul Trucker to help you triangulate fit.
