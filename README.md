@@ -5,7 +5,9 @@ CSV of frame geometry for Surly bikes
 I find it beyond my capacity to compare geometry between different frames using the charts on Surly’s site. I made a CSV of the data I was interested in for my own purposes and thought it might be useful to someone else too.
 
 ## Usage
-I pulled this into a spreadsheet and hid the rows for sizes and frames I wasn’t comparing. What’s left is a nicely scannable table for comparing angles and tube lengths. This orientation is a bit less compact with the labels across the top, but I formatted it this way to make the frames available as records rather than the measurement type.
+This orientation is a bit less compact with the labels across the top, but I formatted it this way to make the frames available as records rather than the measurement type.
+
+Load it into a spreadsheet and **freeze that left column**! Then you can hide everything but the couple frames your interested in.
 
 ## Why?
 My LBS only stocks a couple of these frames and only in a couple sizes. This helps me extrapolate fit for different frames by comparing the numbers to frames that I am familiar with.
