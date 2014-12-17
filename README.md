@@ -19,7 +19,7 @@ Now that I have a workflow I’ll probably go ahead and put all the bikes in the
 - Pugsley
 - ECR
 - Cross-Check
-– Straggler
+- Straggler
 - Steamroller
 - Big Dummy
 
